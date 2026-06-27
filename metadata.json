@@ -1,0 +1,6 @@
+{
+  "name": "NJ AI",
+  "description": "An advanced, human-like AI voice assistant created by Jayadev. NJ is your trusted digital companion, addressing you as Sir and supporting English, Hindi, and Odia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
